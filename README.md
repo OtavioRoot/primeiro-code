@@ -1,2 +1,2 @@
 # primeiro-code
-Aprendendo sobre a plataforma
+Aprendendo sobre a plataforma.

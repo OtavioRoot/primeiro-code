@@ -1,2 +1,2 @@
-# primeiro-code
+# Curriculo
 Aprendendo sobre a plataforma.
